@@ -1,8 +1,6 @@
 import React from "react";
 import playcell from "../../img/playcell.png";
 
-
-
 function Menu() {
     return(
         <nav id="menu" className="p-8 shadow md:flex md:items-center md:justify-between relative">
@@ -23,7 +21,7 @@ function Menu() {
                 <ion-icon size="large" name="person-circle-outline"></ion-icon>
             </ul>
 
-            <div className="fundo items-start shadow absolute top-3/4 left-1/2 transform -translate-x-1/2 -translate-y-10/2 w-4/5 p-4 text-center rounded-lg">
+            <div className="fundo items-start shadow-md absolute top-3/4 left-1/2 transform -translate-x-1/2 -translate-y-2/2 w-4/5 p-4 text-center rounded-lg">
                 <div className="flex">
 
                     <a href="#" className="flex flex-col">

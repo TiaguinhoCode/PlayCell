@@ -27,6 +27,7 @@
 
 #menu .fundo  {
     background: #0d4483;
+    box-shadow: 3px 4px 6px rgba(0, 0, 0, 0.568);
 }
 
 #menu .fundo  div a{
