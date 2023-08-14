@@ -43,7 +43,16 @@
     padding-left: 16px;
 }
 
-#menu .fundo div a span{
+#menu .fundo a:hover,
+#menu .fundo div a span:hover{
+   text-decoration: underline;
+   color: #fff;
+   font-weight: bold;
+   --ionicon-stroke-width: 45px;
+}
+
+
+#menu .fundo div a span {
     display: flex;
     justify-content: center;
     align-items: center;
