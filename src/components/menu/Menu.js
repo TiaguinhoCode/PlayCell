@@ -18,7 +18,7 @@ function Menu() {
             <ul className="md:flex md:items-center transition-all ease-in duration-500">
                 <ion-icon name="key-outline"></ion-icon>
                 <li className="mx-4 my-6 md:my-0">
-                    <a href="#" className="text-xl hover: duration-500">PerfilConsignataria 2</a>
+                    <a href="#" className="text-xl hover: duration-500">User</a>
                 </li>
                 <ion-icon size="large" name="person-circle-outline"></ion-icon>
             </ul>
