@@ -3,21 +3,57 @@
 @import 'tailwindcss/utilities';
 
 /* Menu */
-.menu {
+#menu {
     background: #0c3767;
 }
 
-.menu ul li a{
+#menu ul li a{
     text-decoration: none;
     color: #fff;
 }
 
-.menu ul li a:hover{
+#menu ul li a:hover{
     text-decoration: none;
+    color: #fff;
+}
+
+#menu ion-icon {
+    color: #fff;
+}
+
+#menu ul .icone_usuario {
+    padding-left: 26px;
+}
+
+#menu .fundo  {
+    background: #0d4483;
+}
+
+#menu .fundo  div a{
+    padding: 0px 26px;
+}
+
+#menu .fundo ion-icon{
+    padding-right: 50px;
+    font-size: 26px;
+}
+
+#menu .fundo span{
+    padding-left: 16px;
+}
+
+#menu .fundo div a span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu .fundo div a p{
+    display: flex;
+    text-align: center;
     color: #fff;
 }
 
 .produtos {
     margin-bottom: 20px;
 }
-
