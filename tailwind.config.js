@@ -7,5 +7,12 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  variants: {
+    extend: {
+      display: ['group-focus'],
+      opacity: ['group-focus'],
+      inset: ['group-focus'],
+    }
+  },
 }
 

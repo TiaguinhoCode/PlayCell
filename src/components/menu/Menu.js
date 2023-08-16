@@ -1,25 +1,25 @@
 import React from "react";
 import playcell from "../../img/playcell.png";
+import MenuResponsivo from "./MenuResponsivo";
+
 
 function Menu() {
-    return(
-        <nav id="menu" className="p-8 shadow md:flex md:items-center md:justify-between relative">
-            <div className="flex items-center justify-between">
-                <span className="text-2xl cursor-pointer">
-                    <a>
-                        <img src={playcell} alt="PlayCell" className="w-40"/>
-                    </a>
-                </span>
-                
-            </div>
 
-            <ul className="md:flex md:items-center transition-all ease-in duration-500">
-                <ion-icon name="key-outline"></ion-icon>
-                <li className="mx-4 my-6 md:my-0">
-                    <a href="#" className="text-xl hover: duration-500">User</a>
-                </li>
-                <ion-icon size="large" name="person-circle-outline"></ion-icon>
-            </ul>
+    return(
+        <nav id="menu" className="fixed w-full p-8 shadow ">
+            <div className="m-auto flex justify-between items-center">
+                <a href="#">
+                    <img src={playcell} alt="PlayCell" className="w-40"/>
+                </a> 
+                    
+                <div className="hidden md:flex items-center pr-10 transition-all ease-in duration-500">
+                    <ion-icon name="key-outline"></ion-icon>
+                    <a href="#" className="text-xl hover: duration-500 p-3">User</a>
+                    <ion-icon size="large" name="person-circle-outline"></ion-icon>
+                </div>
+
+                <MenuResponsivo/>
+            </div>
 
             <div className="fundo items-start shadow-md absolute top-3/4 left-1/2 transform -translate-x-1/2 -translate-y-2/2 w-4/5 p-4 text-center rounded-lg">
                 <div className="flex">

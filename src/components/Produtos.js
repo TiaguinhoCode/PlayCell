@@ -14,7 +14,7 @@ function Produtos() {
 
     return(
         
-        <div>
+        <div className="conteudo w-full h-screen">
         <h1>Lista de Produtos:</h1>
         <ul>
           {data.map(item => (

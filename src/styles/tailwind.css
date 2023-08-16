@@ -5,9 +5,10 @@
 /* Menu */
 #menu {
     background: #0c3767;
+    margin-bottom: 76px;
 }
 
-#menu ul li a{
+#menu div a{
     text-decoration: none;
     color: #fff;
 }
@@ -18,7 +19,7 @@
 }
 
 #menu ion-icon {
-    color: #fff;
+    color: #fff;;
 }
 
 #menu ul .icone_usuario {
@@ -66,4 +67,10 @@
 
 .produtos {
     margin-bottom: 20px;
+}
+
+@media screen and (max-width: 1098px) {
+   .fundo {
+    display: none;
+   }
 }
