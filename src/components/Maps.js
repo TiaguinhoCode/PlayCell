@@ -20,7 +20,8 @@ function Maps() {
         }}
         zoom={15}
       ></GoogleMap>
-  ) : <></>
+  ) 
+
         </div>
     );
 }
