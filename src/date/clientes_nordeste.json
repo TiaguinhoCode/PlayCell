@@ -1,0 +1,1502 @@
+[
+  {
+    "nome": "Cliente 1",
+    "endereco": {
+      "rua": "Rua 1",
+      "numero": 544,
+      "bairro": "Bairro 1",
+      "cidade": "Cidade3",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -3.0528765415890238,
+    "longitude": -41.84984646189388,
+    "media_de_compra": 702.03,
+    "compra_do_mes": 393.0
+  },
+  {
+    "nome": "Cliente 2",
+    "endereco": {
+      "rua": "Rua 2",
+      "numero": 578,
+      "bairro": "Bairro 2",
+      "cidade": "Cidade2",
+      "estado": "PE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.41452306371731495,
+    "longitude": -40.239613141047286,
+    "media_de_compra": 161.99,
+    "compra_do_mes": 494.87
+  },
+  {
+    "nome": "Cliente 3",
+    "endereco": {
+      "rua": "Rua 3",
+      "numero": 193,
+      "bairro": "Bairro 3",
+      "cidade": "Cidade1",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -0.44918225229682207,
+    "longitude": -37.04871922299866,
+    "media_de_compra": 537.18,
+    "compra_do_mes": 150.07
+  },
+  {
+    "nome": "Cliente 4",
+    "endereco": {
+      "rua": "Rua 4",
+      "numero": 619,
+      "bairro": "Bairro 4",
+      "cidade": "Cidade2",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -6.954021754805887,
+    "longitude": -36.56754645227917,
+    "media_de_compra": 975.39,
+    "compra_do_mes": 383.27
+  },
+  {
+    "nome": "Cliente 5",
+    "endereco": {
+      "rua": "Rua 5",
+      "numero": 326,
+      "bairro": "Bairro 5",
+      "cidade": "Cidade1",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -2.600745711004711,
+    "longitude": -36.27672094442547,
+    "media_de_compra": 918.87,
+    "compra_do_mes": 181.16
+  },
+  {
+    "nome": "Cliente 6",
+    "endereco": {
+      "rua": "Rua 6",
+      "numero": 311,
+      "bairro": "Bairro 6",
+      "cidade": "Cidade1",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -4.553075046306939,
+    "longitude": -40.2252802480739,
+    "media_de_compra": 999.7,
+    "compra_do_mes": 297.34
+  },
+  {
+    "nome": "Cliente 7",
+    "endereco": {
+      "rua": "Rua 7",
+      "numero": 891,
+      "bairro": "Bairro 7",
+      "cidade": "Cidade2",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -6.0648307298930835,
+    "longitude": -38.955287393201914,
+    "media_de_compra": 589.05,
+    "compra_do_mes": 174.93
+  },
+  {
+    "nome": "Cliente 8",
+    "endereco": {
+      "rua": "Rua 8",
+      "numero": 706,
+      "bairro": "Bairro 8",
+      "cidade": "Cidade3",
+      "estado": "PE",
+      "pais": "Brasil"
+    },
+    "latitude": -5.538348144696767,
+    "longitude": -37.09804664899637,
+    "media_de_compra": 517.59,
+    "compra_do_mes": 255.83
+  },
+  {
+    "nome": "Cliente 9",
+    "endereco": {
+      "rua": "Rua 9",
+      "numero": 421,
+      "bairro": "Bairro 9",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -5.76779462482572,
+    "longitude": -41.37233503806212,
+    "media_de_compra": 682.5,
+    "compra_do_mes": 454.42
+  },
+  {
+    "nome": "Cliente 10",
+    "endereco": {
+      "rua": "Rua 10",
+      "numero": 639,
+      "bairro": "Bairro 10",
+      "cidade": "Cidade1",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -4.172113230907753,
+    "longitude": -37.30822476406365,
+    "media_de_compra": 480.13,
+    "compra_do_mes": 219.12
+  },
+  {
+    "nome": "Cliente 11",
+    "endereco": {
+      "rua": "Rua 11",
+      "numero": 350,
+      "bairro": "Bairro 11",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -0.9257741840025364,
+    "longitude": -36.23584391704317,
+    "media_de_compra": 224.28,
+    "compra_do_mes": 215.08
+  },
+  {
+    "nome": "Cliente 12",
+    "endereco": {
+      "rua": "Rua 12",
+      "numero": 15,
+      "bairro": "Bairro 12",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -5.165202858525873,
+    "longitude": -37.22641615875938,
+    "media_de_compra": 197.59,
+    "compra_do_mes": 307.96
+  },
+  {
+    "nome": "Cliente 13",
+    "endereco": {
+      "rua": "Rua 13",
+      "numero": 470,
+      "bairro": "Bairro 13",
+      "cidade": "Cidade1",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -1.5151064765546423,
+    "longitude": -42.04441424715376,
+    "media_de_compra": 882.99,
+    "compra_do_mes": 306.44
+  },
+  {
+    "nome": "Cliente 14",
+    "endereco": {
+      "rua": "Rua 14",
+      "numero": 10,
+      "bairro": "Bairro 14",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.635458653922166,
+    "longitude": -38.85150373185815,
+    "media_de_compra": 226.97,
+    "compra_do_mes": 201.46
+  },
+  {
+    "nome": "Cliente 15",
+    "endereco": {
+      "rua": "Rua 15",
+      "numero": 487,
+      "bairro": "Bairro 15",
+      "cidade": "Cidade1",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -0.8193232052670716,
+    "longitude": -37.59909766732462,
+    "media_de_compra": 638.9,
+    "compra_do_mes": 192.34
+  },
+  {
+    "nome": "Cliente 16",
+    "endereco": {
+      "rua": "Rua 16",
+      "numero": 706,
+      "bairro": "Bairro 16",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -3.6997441223125005,
+    "longitude": -37.62949688729801,
+    "media_de_compra": 958.86,
+    "compra_do_mes": 199.79
+  },
+  {
+    "nome": "Cliente 17",
+    "endereco": {
+      "rua": "Rua 17",
+      "numero": 237,
+      "bairro": "Bairro 17",
+      "cidade": "Cidade2",
+      "estado": "PE",
+      "pais": "Brasil"
+    },
+    "latitude": -9.109401101429267,
+    "longitude": -42.77111861658466,
+    "media_de_compra": 506.78,
+    "compra_do_mes": 418.3
+  },
+  {
+    "nome": "Cliente 18",
+    "endereco": {
+      "rua": "Rua 18",
+      "numero": 806,
+      "bairro": "Bairro 18",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -8.278385061287363,
+    "longitude": -38.27379886376281,
+    "media_de_compra": 239.27,
+    "compra_do_mes": 149.79
+  },
+  {
+    "nome": "Cliente 19",
+    "endereco": {
+      "rua": "Rua 19",
+      "numero": 959,
+      "bairro": "Bairro 19",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -9.60632609260946,
+    "longitude": -38.17950284472986,
+    "media_de_compra": 470.09,
+    "compra_do_mes": 270.98
+  },
+  {
+    "nome": "Cliente 20",
+    "endereco": {
+      "rua": "Rua 20",
+      "numero": 537,
+      "bairro": "Bairro 20",
+      "cidade": "Cidade2",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -3.9563437832128114,
+    "longitude": -40.38574669838632,
+    "media_de_compra": 820.02,
+    "compra_do_mes": 336.41
+  },
+  {
+    "nome": "Cliente 21",
+    "endereco": {
+      "rua": "Rua 21",
+      "numero": 732,
+      "bairro": "Bairro 21",
+      "cidade": "Cidade2",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -8.989831450758697,
+    "longitude": -38.89595258798465,
+    "media_de_compra": 404.45,
+    "compra_do_mes": 261.34
+  },
+  {
+    "nome": "Cliente 22",
+    "endereco": {
+      "rua": "Rua 22",
+      "numero": 500,
+      "bairro": "Bairro 22",
+      "cidade": "Cidade3",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -8.812055781773953,
+    "longitude": -42.59153725885891,
+    "media_de_compra": 400.66,
+    "compra_do_mes": 190.81
+  },
+  {
+    "nome": "Cliente 23",
+    "endereco": {
+      "rua": "Rua 23",
+      "numero": 392,
+      "bairro": "Bairro 23",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -4.062051292694132,
+    "longitude": -36.625111915969256,
+    "media_de_compra": 626.72,
+    "compra_do_mes": 475.32
+  },
+  {
+    "nome": "Cliente 24",
+    "endereco": {
+      "rua": "Rua 24",
+      "numero": 903,
+      "bairro": "Bairro 24",
+      "cidade": "Cidade1",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -3.475512873265717,
+    "longitude": -42.955715891685465,
+    "media_de_compra": 151.08,
+    "compra_do_mes": 266.31
+  },
+  {
+    "nome": "Cliente 25",
+    "endereco": {
+      "rua": "Rua 25",
+      "numero": 625,
+      "bairro": "Bairro 25",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.6166657805985363,
+    "longitude": -42.36270138326245,
+    "media_de_compra": 796.33,
+    "compra_do_mes": 383.36
+  },
+  {
+    "nome": "Cliente 26",
+    "endereco": {
+      "rua": "Rua 26",
+      "numero": 466,
+      "bairro": "Bairro 26",
+      "cidade": "Cidade1",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -7.916797383448183,
+    "longitude": -42.00105953023784,
+    "media_de_compra": 716.84,
+    "compra_do_mes": 327.88
+  },
+  {
+    "nome": "Cliente 27",
+    "endereco": {
+      "rua": "Rua 27",
+      "numero": 117,
+      "bairro": "Bairro 27",
+      "cidade": "Cidade1",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -3.406827096541986,
+    "longitude": -43.14673719936418,
+    "media_de_compra": 276.08,
+    "compra_do_mes": 381.13
+  },
+  {
+    "nome": "Cliente 28",
+    "endereco": {
+      "rua": "Rua 28",
+      "numero": 271,
+      "bairro": "Bairro 28",
+      "cidade": "Cidade2",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -9.19175045670941,
+    "longitude": -38.800751589371025,
+    "media_de_compra": 710.97,
+    "compra_do_mes": 450.65
+  },
+  {
+    "nome": "Cliente 29",
+    "endereco": {
+      "rua": "Rua 29",
+      "numero": 217,
+      "bairro": "Bairro 29",
+      "cidade": "Cidade1",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -9.808373435202276,
+    "longitude": -39.20771199771229,
+    "media_de_compra": 231.57,
+    "compra_do_mes": 465.78
+  },
+  {
+    "nome": "Cliente 30",
+    "endereco": {
+      "rua": "Rua 30",
+      "numero": 247,
+      "bairro": "Bairro 30",
+      "cidade": "Cidade3",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -1.8544555289374482,
+    "longitude": -41.42269888005391,
+    "media_de_compra": 216.49,
+    "compra_do_mes": 363.15
+  },
+  {
+    "nome": "Cliente 31",
+    "endereco": {
+      "rua": "Rua 31",
+      "numero": 193,
+      "bairro": "Bairro 31",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -5.2502475999626945,
+    "longitude": -36.63811542224394,
+    "media_de_compra": 216.0,
+    "compra_do_mes": 328.57
+  },
+  {
+    "nome": "Cliente 32",
+    "endereco": {
+      "rua": "Rua 32",
+      "numero": 792,
+      "bairro": "Bairro 32",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -7.356425403704351,
+    "longitude": -36.72479499520853,
+    "media_de_compra": 451.57,
+    "compra_do_mes": 470.16
+  },
+  {
+    "nome": "Cliente 33",
+    "endereco": {
+      "rua": "Rua 33",
+      "numero": 909,
+      "bairro": "Bairro 33",
+      "cidade": "Cidade3",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -5.522032572400209,
+    "longitude": -40.82177571832485,
+    "media_de_compra": 758.81,
+    "compra_do_mes": 402.69
+  },
+  {
+    "nome": "Cliente 34",
+    "endereco": {
+      "rua": "Rua 34",
+      "numero": 174,
+      "bairro": "Bairro 34",
+      "cidade": "Cidade3",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -4.175241875792887,
+    "longitude": -42.42841430644296,
+    "media_de_compra": 589.87,
+    "compra_do_mes": 217.78
+  },
+  {
+    "nome": "Cliente 35",
+    "endereco": {
+      "rua": "Rua 35",
+      "numero": 649,
+      "bairro": "Bairro 35",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -9.214481835466195,
+    "longitude": -44.71377038298496,
+    "media_de_compra": 459.63,
+    "compra_do_mes": 112.06
+  },
+  {
+    "nome": "Cliente 36",
+    "endereco": {
+      "rua": "Rua 36",
+      "numero": 849,
+      "bairro": "Bairro 36",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -2.0314837902568126,
+    "longitude": -35.08738169388024,
+    "media_de_compra": 528.5,
+    "compra_do_mes": 447.76
+  },
+  {
+    "nome": "Cliente 37",
+    "endereco": {
+      "rua": "Rua 37",
+      "numero": 429,
+      "bairro": "Bairro 37",
+      "cidade": "Cidade2",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -3.7613331194081177,
+    "longitude": -42.080468092450175,
+    "media_de_compra": 102.27,
+    "compra_do_mes": 309.72
+  },
+  {
+    "nome": "Cliente 38",
+    "endereco": {
+      "rua": "Rua 38",
+      "numero": 703,
+      "bairro": "Bairro 38",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -8.578628502423085,
+    "longitude": -44.823879865024125,
+    "media_de_compra": 399.89,
+    "compra_do_mes": 454.83
+  },
+  {
+    "nome": "Cliente 39",
+    "endereco": {
+      "rua": "Rua 39",
+      "numero": 287,
+      "bairro": "Bairro 39",
+      "cidade": "Cidade1",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -7.205685381432598,
+    "longitude": -42.05387517458991,
+    "media_de_compra": 583.42,
+    "compra_do_mes": 348.32
+  },
+  {
+    "nome": "Cliente 40",
+    "endereco": {
+      "rua": "Rua 40",
+      "numero": 659,
+      "bairro": "Bairro 40",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -8.170187733528197,
+    "longitude": -40.4188360857084,
+    "media_de_compra": 216.88,
+    "compra_do_mes": 356.98
+  },
+  {
+    "nome": "Cliente 41",
+    "endereco": {
+      "rua": "Rua 41",
+      "numero": 635,
+      "bairro": "Bairro 41",
+      "cidade": "Cidade1",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -9.874019791041599,
+    "longitude": -43.12410616689307,
+    "media_de_compra": 246.04,
+    "compra_do_mes": 130.61
+  },
+  {
+    "nome": "Cliente 42",
+    "endereco": {
+      "rua": "Rua 42",
+      "numero": 585,
+      "bairro": "Bairro 42",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -6.698457024181238,
+    "longitude": -37.41710866880932,
+    "media_de_compra": 447.11,
+    "compra_do_mes": 206.84
+  },
+  {
+    "nome": "Cliente 43",
+    "endereco": {
+      "rua": "Rua 43",
+      "numero": 180,
+      "bairro": "Bairro 43",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -5.343609446662448,
+    "longitude": -36.63681783390659,
+    "media_de_compra": 669.26,
+    "compra_do_mes": 405.93
+  },
+  {
+    "nome": "Cliente 44",
+    "endereco": {
+      "rua": "Rua 44",
+      "numero": 846,
+      "bairro": "Bairro 44",
+      "cidade": "Cidade1",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.14039423326075884,
+    "longitude": -36.12503334034368,
+    "media_de_compra": 989.3,
+    "compra_do_mes": 60.54
+  },
+  {
+    "nome": "Cliente 45",
+    "endereco": {
+      "rua": "Rua 45",
+      "numero": 647,
+      "bairro": "Bairro 45",
+      "cidade": "Cidade3",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -2.4937269643063784,
+    "longitude": -39.67003943984836,
+    "media_de_compra": 944.75,
+    "compra_do_mes": 415.41
+  },
+  {
+    "nome": "Cliente 46",
+    "endereco": {
+      "rua": "Rua 46",
+      "numero": 792,
+      "bairro": "Bairro 46",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -5.523305678270396,
+    "longitude": -43.78192344134102,
+    "media_de_compra": 299.11,
+    "compra_do_mes": 176.31
+  },
+  {
+    "nome": "Cliente 47",
+    "endereco": {
+      "rua": "Rua 47",
+      "numero": 433,
+      "bairro": "Bairro 47",
+      "cidade": "Cidade3",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -9.973836115555875,
+    "longitude": -37.96000456347519,
+    "media_de_compra": 183.34,
+    "compra_do_mes": 147.48
+  },
+  {
+    "nome": "Cliente 48",
+    "endereco": {
+      "rua": "Rua 48",
+      "numero": 951,
+      "bairro": "Bairro 48",
+      "cidade": "Cidade3",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -7.359372446765206,
+    "longitude": -38.65812641867307,
+    "media_de_compra": 184.81,
+    "compra_do_mes": 305.68
+  },
+  {
+    "nome": "Cliente 49",
+    "endereco": {
+      "rua": "Rua 49",
+      "numero": 505,
+      "bairro": "Bairro 49",
+      "cidade": "Cidade3",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -4.030640123102862,
+    "longitude": -42.83452493293222,
+    "media_de_compra": 125.34,
+    "compra_do_mes": 451.35
+  },
+  {
+    "nome": "Cliente 50",
+    "endereco": {
+      "rua": "Rua 50",
+      "numero": 705,
+      "bairro": "Bairro 50",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -2.474525117766727,
+    "longitude": -37.19248873702012,
+    "media_de_compra": 128.4,
+    "compra_do_mes": 120.69
+  },
+  {
+    "nome": "Cliente 51",
+    "endereco": {
+      "rua": "Rua 51",
+      "numero": 356,
+      "bairro": "Bairro 51",
+      "cidade": "Cidade3",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -4.835932459528656,
+    "longitude": -44.58724047923321,
+    "media_de_compra": 581.68,
+    "compra_do_mes": 289.47
+  },
+  {
+    "nome": "Cliente 52",
+    "endereco": {
+      "rua": "Rua 52",
+      "numero": 588,
+      "bairro": "Bairro 52",
+      "cidade": "Cidade1",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.2979981020013156,
+    "longitude": -39.53280118164844,
+    "media_de_compra": 936.05,
+    "compra_do_mes": 211.7
+  },
+  {
+    "nome": "Cliente 53",
+    "endereco": {
+      "rua": "Rua 53",
+      "numero": 830,
+      "bairro": "Bairro 53",
+      "cidade": "Cidade2",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -3.2472864941734967,
+    "longitude": -43.5569336500346,
+    "media_de_compra": 390.96,
+    "compra_do_mes": 321.22
+  },
+  {
+    "nome": "Cliente 54",
+    "endereco": {
+      "rua": "Rua 54",
+      "numero": 854,
+      "bairro": "Bairro 54",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -0.1390221267203131,
+    "longitude": -43.548913382953074,
+    "media_de_compra": 193.79,
+    "compra_do_mes": 435.1
+  },
+  {
+    "nome": "Cliente 55",
+    "endereco": {
+      "rua": "Rua 55",
+      "numero": 7,
+      "bairro": "Bairro 55",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -8.584858846581547,
+    "longitude": -36.106521886502335,
+    "media_de_compra": 500.18,
+    "compra_do_mes": 160.41
+  },
+  {
+    "nome": "Cliente 56",
+    "endereco": {
+      "rua": "Rua 56",
+      "numero": 387,
+      "bairro": "Bairro 56",
+      "cidade": "Cidade1",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -1.9956989843057489,
+    "longitude": -38.032892127281315,
+    "media_de_compra": 731.09,
+    "compra_do_mes": 348.51
+  },
+  {
+    "nome": "Cliente 57",
+    "endereco": {
+      "rua": "Rua 57",
+      "numero": 751,
+      "bairro": "Bairro 57",
+      "cidade": "Cidade1",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -1.7582061010770182,
+    "longitude": -43.628802864712824,
+    "media_de_compra": 909.9,
+    "compra_do_mes": 261.59
+  },
+  {
+    "nome": "Cliente 58",
+    "endereco": {
+      "rua": "Rua 58",
+      "numero": 36,
+      "bairro": "Bairro 58",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -1.0219283973496847,
+    "longitude": -44.132268866508674,
+    "media_de_compra": 428.42,
+    "compra_do_mes": 211.81
+  },
+  {
+    "nome": "Cliente 59",
+    "endereco": {
+      "rua": "Rua 59",
+      "numero": 224,
+      "bairro": "Bairro 59",
+      "cidade": "Cidade2",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.7157656801228036,
+    "longitude": -37.21229451032603,
+    "media_de_compra": 899.05,
+    "compra_do_mes": 148.89
+  },
+  {
+    "nome": "Cliente 60",
+    "endereco": {
+      "rua": "Rua 60",
+      "numero": 28,
+      "bairro": "Bairro 60",
+      "cidade": "Cidade3",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -5.475888992420591,
+    "longitude": -38.97990016664866,
+    "media_de_compra": 133.46,
+    "compra_do_mes": 244.24
+  },
+  {
+    "nome": "Cliente 61",
+    "endereco": {
+      "rua": "Rua 61",
+      "numero": 604,
+      "bairro": "Bairro 61",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -4.055136357907591,
+    "longitude": -41.39401005485651,
+    "media_de_compra": 446.12,
+    "compra_do_mes": 324.96
+  },
+  {
+    "nome": "Cliente 62",
+    "endereco": {
+      "rua": "Rua 62",
+      "numero": 369,
+      "bairro": "Bairro 62",
+      "cidade": "Cidade2",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -2.134019419649558,
+    "longitude": -37.36068140412234,
+    "media_de_compra": 982.71,
+    "compra_do_mes": 268.19
+  },
+  {
+    "nome": "Cliente 63",
+    "endereco": {
+      "rua": "Rua 63",
+      "numero": 478,
+      "bairro": "Bairro 63",
+      "cidade": "Cidade2",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -0.31024287478956936,
+    "longitude": -40.686190319436015,
+    "media_de_compra": 600.23,
+    "compra_do_mes": 408.16
+  },
+  {
+    "nome": "Cliente 64",
+    "endereco": {
+      "rua": "Rua 64",
+      "numero": 789,
+      "bairro": "Bairro 64",
+      "cidade": "Cidade2",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -1.365573754091578,
+    "longitude": -41.46306254689688,
+    "media_de_compra": 666.33,
+    "compra_do_mes": 196.7
+  },
+  {
+    "nome": "Cliente 65",
+    "endereco": {
+      "rua": "Rua 65",
+      "numero": 192,
+      "bairro": "Bairro 65",
+      "cidade": "Cidade2",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -4.828671649740825,
+    "longitude": -40.35327302163224,
+    "media_de_compra": 966.04,
+    "compra_do_mes": 205.71
+  },
+  {
+    "nome": "Cliente 66",
+    "endereco": {
+      "rua": "Rua 66",
+      "numero": 443,
+      "bairro": "Bairro 66",
+      "cidade": "Cidade2",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -5.31199734424606,
+    "longitude": -43.42421112048298,
+    "media_de_compra": 662.12,
+    "compra_do_mes": 194.75
+  },
+  {
+    "nome": "Cliente 67",
+    "endereco": {
+      "rua": "Rua 67",
+      "numero": 742,
+      "bairro": "Bairro 67",
+      "cidade": "Cidade2",
+      "estado": "PE",
+      "pais": "Brasil"
+    },
+    "latitude": -5.803720971141609,
+    "longitude": -41.540407833206416,
+    "media_de_compra": 416.96,
+    "compra_do_mes": 350.08
+  },
+  {
+    "nome": "Cliente 68",
+    "endereco": {
+      "rua": "Rua 68",
+      "numero": 568,
+      "bairro": "Bairro 68",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -2.3896314848334965,
+    "longitude": -44.38570958000059,
+    "media_de_compra": 839.8,
+    "compra_do_mes": 403.47
+  },
+  {
+    "nome": "Cliente 69",
+    "endereco": {
+      "rua": "Rua 69",
+      "numero": 334,
+      "bairro": "Bairro 69",
+      "cidade": "Cidade1",
+      "estado": "PE",
+      "pais": "Brasil"
+    },
+    "latitude": -6.272499443690547,
+    "longitude": -37.511780894880076,
+    "media_de_compra": 789.0,
+    "compra_do_mes": 453.03
+  },
+  {
+    "nome": "Cliente 70",
+    "endereco": {
+      "rua": "Rua 70",
+      "numero": 556,
+      "bairro": "Bairro 70",
+      "cidade": "Cidade2",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.6799611127620473,
+    "longitude": -37.75498323313387,
+    "media_de_compra": 500.29,
+    "compra_do_mes": 459.63
+  },
+  {
+    "nome": "Cliente 71",
+    "endereco": {
+      "rua": "Rua 71",
+      "numero": 187,
+      "bairro": "Bairro 71",
+      "cidade": "Cidade3",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -1.7434678716076633,
+    "longitude": -36.35626082961684,
+    "media_de_compra": 327.51,
+    "compra_do_mes": 166.21
+  },
+  {
+    "nome": "Cliente 72",
+    "endereco": {
+      "rua": "Rua 72",
+      "numero": 747,
+      "bairro": "Bairro 72",
+      "cidade": "Cidade2",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -0.888083542009305,
+    "longitude": -35.16792520460408,
+    "media_de_compra": 658.73,
+    "compra_do_mes": 429.81
+  },
+  {
+    "nome": "Cliente 73",
+    "endereco": {
+      "rua": "Rua 73",
+      "numero": 766,
+      "bairro": "Bairro 73",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -7.9278476129790745,
+    "longitude": -40.00790547873982,
+    "media_de_compra": 317.09,
+    "compra_do_mes": 280.49
+  },
+  {
+    "nome": "Cliente 74",
+    "endereco": {
+      "rua": "Rua 74",
+      "numero": 568,
+      "bairro": "Bairro 74",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -5.944305912044731,
+    "longitude": -42.81354659223171,
+    "media_de_compra": 218.58,
+    "compra_do_mes": 90.42
+  },
+  {
+    "nome": "Cliente 75",
+    "endereco": {
+      "rua": "Rua 75",
+      "numero": 805,
+      "bairro": "Bairro 75",
+      "cidade": "Cidade1",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.5556252022685815,
+    "longitude": -38.53180869966055,
+    "media_de_compra": 157.45,
+    "compra_do_mes": 462.35
+  },
+  {
+    "nome": "Cliente 76",
+    "endereco": {
+      "rua": "Rua 76",
+      "numero": 861,
+      "bairro": "Bairro 76",
+      "cidade": "Cidade1",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -3.1652286483573198,
+    "longitude": -37.034061287802786,
+    "media_de_compra": 652.33,
+    "compra_do_mes": 280.27
+  },
+  {
+    "nome": "Cliente 77",
+    "endereco": {
+      "rua": "Rua 77",
+      "numero": 91,
+      "bairro": "Bairro 77",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -2.733886755905182,
+    "longitude": -42.10942628919868,
+    "media_de_compra": 411.3,
+    "compra_do_mes": 243.5
+  },
+  {
+    "nome": "Cliente 78",
+    "endereco": {
+      "rua": "Rua 78",
+      "numero": 80,
+      "bairro": "Bairro 78",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -8.627151748651272,
+    "longitude": -43.65911426171662,
+    "media_de_compra": 420.54,
+    "compra_do_mes": 71.66
+  },
+  {
+    "nome": "Cliente 79",
+    "endereco": {
+      "rua": "Rua 79",
+      "numero": 413,
+      "bairro": "Bairro 79",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -1.4508029900503612,
+    "longitude": -41.50850124635795,
+    "media_de_compra": 984.34,
+    "compra_do_mes": 416.91
+  },
+  {
+    "nome": "Cliente 80",
+    "endereco": {
+      "rua": "Rua 80",
+      "numero": 925,
+      "bairro": "Bairro 80",
+      "cidade": "Cidade1",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -0.7178148774751385,
+    "longitude": -43.16442158557208,
+    "media_de_compra": 814.88,
+    "compra_do_mes": 466.25
+  },
+  {
+    "nome": "Cliente 81",
+    "endereco": {
+      "rua": "Rua 81",
+      "numero": 167,
+      "bairro": "Bairro 81",
+      "cidade": "Cidade2",
+      "estado": "MA",
+      "pais": "Brasil"
+    },
+    "latitude": -7.1323461205323335,
+    "longitude": -40.15395623258702,
+    "media_de_compra": 564.29,
+    "compra_do_mes": 269.24
+  },
+  {
+    "nome": "Cliente 82",
+    "endereco": {
+      "rua": "Rua 82",
+      "numero": 779,
+      "bairro": "Bairro 82",
+      "cidade": "Cidade2",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -2.6570782003808304,
+    "longitude": -36.945451839753204,
+    "media_de_compra": 839.45,
+    "compra_do_mes": 159.71
+  },
+  {
+    "nome": "Cliente 83",
+    "endereco": {
+      "rua": "Rua 83",
+      "numero": 491,
+      "bairro": "Bairro 83",
+      "cidade": "Cidade1",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -2.5218345725524145,
+    "longitude": -40.65479069234975,
+    "media_de_compra": 579.53,
+    "compra_do_mes": 459.78
+  },
+  {
+    "nome": "Cliente 84",
+    "endereco": {
+      "rua": "Rua 84",
+      "numero": 179,
+      "bairro": "Bairro 84",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -6.387308779656208,
+    "longitude": -40.45836761038684,
+    "media_de_compra": 318.45,
+    "compra_do_mes": 463.85
+  },
+  {
+    "nome": "Cliente 85",
+    "endereco": {
+      "rua": "Rua 85",
+      "numero": 665,
+      "bairro": "Bairro 85",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -3.7512859097168434,
+    "longitude": -36.33197565865695,
+    "media_de_compra": 357.32,
+    "compra_do_mes": 220.3
+  },
+  {
+    "nome": "Cliente 86",
+    "endereco": {
+      "rua": "Rua 86",
+      "numero": 327,
+      "bairro": "Bairro 86",
+      "cidade": "Cidade3",
+      "estado": "CE",
+      "pais": "Brasil"
+    },
+    "latitude": -2.9803760231926812,
+    "longitude": -41.849867691977614,
+    "media_de_compra": 469.18,
+    "compra_do_mes": 277.21
+  },
+  {
+    "nome": "Cliente 87",
+    "endereco": {
+      "rua": "Rua 87",
+      "numero": 544,
+      "bairro": "Bairro 87",
+      "cidade": "Cidade1",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -4.470589940540628,
+    "longitude": -40.8340749263953,
+    "media_de_compra": 435.47,
+    "compra_do_mes": 231.82
+  },
+  {
+    "nome": "Cliente 88",
+    "endereco": {
+      "rua": "Rua 88",
+      "numero": 652,
+      "bairro": "Bairro 88",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -6.264695259988889,
+    "longitude": -44.14908215468162,
+    "media_de_compra": 942.12,
+    "compra_do_mes": 402.75
+  },
+  {
+    "nome": "Cliente 89",
+    "endereco": {
+      "rua": "Rua 89",
+      "numero": 440,
+      "bairro": "Bairro 89",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -2.8696196221275656,
+    "longitude": -39.5299399008128,
+    "media_de_compra": 388.62,
+    "compra_do_mes": 398.28
+  },
+  {
+    "nome": "Cliente 90",
+    "endereco": {
+      "rua": "Rua 90",
+      "numero": 677,
+      "bairro": "Bairro 90",
+      "cidade": "Cidade3",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -7.131411784464251,
+    "longitude": -35.85741846997488,
+    "media_de_compra": 597.76,
+    "compra_do_mes": 215.3
+  },
+  {
+    "nome": "Cliente 91",
+    "endereco": {
+      "rua": "Rua 91",
+      "numero": 184,
+      "bairro": "Bairro 91",
+      "cidade": "Cidade3",
+      "estado": "AL",
+      "pais": "Brasil"
+    },
+    "latitude": -0.9116629446090876,
+    "longitude": -42.46583919669207,
+    "media_de_compra": 312.21,
+    "compra_do_mes": 484.56
+  },
+  {
+    "nome": "Cliente 92",
+    "endereco": {
+      "rua": "Rua 92",
+      "numero": 73,
+      "bairro": "Bairro 92",
+      "cidade": "Cidade2",
+      "estado": "BA",
+      "pais": "Brasil"
+    },
+    "latitude": -6.892569598052669,
+    "longitude": -40.02347328452249,
+    "media_de_compra": 692.41,
+    "compra_do_mes": 411.98
+  },
+  {
+    "nome": "Cliente 93",
+    "endereco": {
+      "rua": "Rua 93",
+      "numero": 945,
+      "bairro": "Bairro 93",
+      "cidade": "Cidade1",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -2.553203171957092,
+    "longitude": -39.41817447326709,
+    "media_de_compra": 165.25,
+    "compra_do_mes": 238.07
+  },
+  {
+    "nome": "Cliente 94",
+    "endereco": {
+      "rua": "Rua 94",
+      "numero": 571,
+      "bairro": "Bairro 94",
+      "cidade": "Cidade1",
+      "estado": "SE",
+      "pais": "Brasil"
+    },
+    "latitude": -9.766184838303962,
+    "longitude": -37.48845232418794,
+    "media_de_compra": 898.35,
+    "compra_do_mes": 253.62
+  },
+  {
+    "nome": "Cliente 95",
+    "endereco": {
+      "rua": "Rua 95",
+      "numero": 708,
+      "bairro": "Bairro 95",
+      "cidade": "Cidade2",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -1.4871423628567655,
+    "longitude": -44.15739464134413,
+    "media_de_compra": 384.25,
+    "compra_do_mes": 341.38
+  },
+  {
+    "nome": "Cliente 96",
+    "endereco": {
+      "rua": "Rua 96",
+      "numero": 703,
+      "bairro": "Bairro 96",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -3.4155075394360317,
+    "longitude": -42.73555399436461,
+    "media_de_compra": 241.24,
+    "compra_do_mes": 411.47
+  },
+  {
+    "nome": "Cliente 97",
+    "endereco": {
+      "rua": "Rua 97",
+      "numero": 909,
+      "bairro": "Bairro 97",
+      "cidade": "Cidade2",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    "latitude": -3.7248084052883703,
+    "longitude": -39.70760954584472,
+    "media_de_compra": 468.18,
+    "compra_do_mes": 184.9
+  },
+  {
+    "nome": "Cliente 98",
+    "endereco": {
+      "rua": "Rua 98",
+      "numero": 384,
+      "bairro": "Bairro 98",
+      "cidade": "Cidade2",
+      "estado": "RN",
+      "pais": "Brasil"
+    },
+    "latitude": -9.810731918227505,
+    "longitude": -41.33390088365476,
+    "media_de_compra": 450.57,
+    "compra_do_mes": 374.2
+  },
+  {
+    "nome": "Cliente 99",
+    "endereco": {
+      "rua": "Rua 99",
+      "numero": 488,
+      "bairro": "Bairro 99",
+      "cidade": "Cidade3",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -2.0219224390220756,
+    "longitude": -35.54984855979847,
+    "media_de_compra": 855.04,
+    "compra_do_mes": 116.86
+  },
+  {
+    "nome": "Cliente 100",
+    "endereco": {
+      "rua": "Rua 100",
+      "numero": 372,
+      "bairro": "Bairro 100",
+      "cidade": "Cidade2",
+      "estado": "PI",
+      "pais": "Brasil"
+    },
+    "latitude": -8.859965462681558,
+    "longitude": -36.56578313272857,
+    "media_de_compra": 300.28,
+    "compra_do_mes": 151.88
+  }
+]
