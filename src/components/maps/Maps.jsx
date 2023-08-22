@@ -1,6 +1,7 @@
 import React from 'react';
 import GoogleMapReact from 'google-map-react'; 
 import clientes_nordeste from '../../date/clientes_nordeste.json';
+import { Filtro } from './filtro/Filtro';
 import { Card } from '../cards/Card';
 
 function Maps() {
@@ -45,6 +46,9 @@ function Maps() {
                     > 
                     </GoogleMapReact> 
                     <Card/>   
+                    <div className="filtro">
+                        <Filtro/>
+                    </div>
                 </div>  
                 
             </div>

@@ -3,7 +3,7 @@
     display: flex;
     height: 70%;
     width: 90em;
-    margin: 4em 0px 36px 9em;
+    margin: 4em 0px 26px 9em;
     justify-content: end;
 }
 
@@ -73,6 +73,8 @@
 /* Filtro */
 
 .filtro {
-    width: 100%;
-    background-color: #fff;
+    width: auto;
+    position: absolute; 
+    left: 130px;
+    margin: 15px 6px;
 }
