@@ -1,6 +1,7 @@
 import React from 'react';
 import GoogleMapReact from 'google-map-react'; 
-import clientes_nordeste from '../date/clientes_nordeste.json';
+import clientes_nordeste from '../../date/clientes_nordeste.json';
+import { Card } from '../cards/Card';
 
 function Maps() {
 
@@ -16,7 +17,10 @@ function Maps() {
             lng: cliente.longitude,
         })); 
 
-        console.log(heatmapPositions);
+        //Remove UI do fullscreen
+        const mapOptions = {
+            fullscreenControl: false,
+        }
 
         // Puxar latitude e longitude 
         // criar váriavel para usar como position no google maps 
@@ -26,45 +30,34 @@ function Maps() {
         const zoom = 0;
 
         return (
-            
             <div className='map-container'> 
-                <div className="map" >
+                <div className="map" >        
                     <GoogleMapReact
+                        className="googleMaps"
                         bootstrapURLKeys={bootstrapURLKeys}
                         defaultCenter={center}
                         defaultZoom={zoom}
                         heatmap={{
                             positions: heatmapPositions,
-                            options: { radius: 20 }
-                        }}
-                    >
-                    </GoogleMapReact>
-                </div>
-                <div className='card'>
-                    <div className='value'>
-                        <span className='valores'>Valor Total:</span>
-                        <br/>
-                        <span className='negrito'>R$ 27.446.475,50</span>
-                        <br/>
-                    </div>
-                        <div className='divider'></div>
-                    <div className='value'>
-                        <span className='valores'>Valor visível:</span>
-                        <br/>
-                        <span className='negrito'>R$ 27.446.475,50</span>
-                        <p className='valores'>100% do Total</p>
-                    </div>
-                    <div className='divider'></div>
-                </div>
+                            options: { radius: 8 }
+                        }}  
+                        options={mapOptions} 
+                    > 
+                    </GoogleMapReact> 
+                    <Card/>   
+                </div>  
+                
             </div>
         );
     }
 
 
     return (
+
         <div className="map">
             <MapWithHeatmap/>
         </div>
+
     )
 }
 

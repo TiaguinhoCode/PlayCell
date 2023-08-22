@@ -1,7 +1,8 @@
 import Menu from './components/menu/Menu';
-import Maps from './components/Maps';
+import Maps from './components/maps/Maps';
 import React from 'react';
 import './App.css';
+import { Card } from './components/cards/Card';
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <section className='container'>
         <Maps/>
       </section>
+
     </div>
   );
 }
