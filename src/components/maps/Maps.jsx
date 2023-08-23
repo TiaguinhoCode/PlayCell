@@ -1,8 +1,10 @@
 import React from 'react';
 import GoogleMapReact from 'google-map-react'; 
 import clientes_nordeste from '../../date/clientes_nordeste.json';
-import { Filtro } from './filtro/Filtro';
+import { Filtro } from './inputFiltro/Filtro';
 import { Card } from '../cards/Card';
+import { Data } from './inputData/Data';
+
 
 function Maps() {
 
@@ -43,11 +45,15 @@ function Maps() {
                             options: { radius: 8 }
                         }}  
                         options={mapOptions} 
+                        
                     > 
                     </GoogleMapReact> 
                     <Card/>   
                     <div className="filtro">
                         <Filtro/>
+                    </div>
+                    <div className="data">
+                        <Data/>
                     </div>
                 </div>  
                 
